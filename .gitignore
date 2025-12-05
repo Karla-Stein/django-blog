@@ -1,0 +1,12 @@
+.DS_Store
+.vscode/
+env.py
+.env
+venv/
+.venv/
+.venv
+db.sqlite3
+*.py[cod]
+__pycache__/
+fixtures/
+settings.py
